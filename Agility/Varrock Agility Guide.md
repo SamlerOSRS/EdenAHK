@@ -1,6 +1,11 @@
 # Eden Varrock Agility
 Script will complete the Varrock Agility course for easy gains.
 
+## Download
+[EXE](https://github.com/SamlerOSRS/EdenAHK/blob/master/Agility/Eden%20Varrock%20Agility%20v1.exe)
+
+[SOURCE](https://github.com/SamlerOSRS/EdenAHK/blob/master/Agility/varrockagility.ahk)
+
 ## Note
 * The script isn't perfect and probably needs to be babysat a little.
 * Make sure you have attack options set to off.
