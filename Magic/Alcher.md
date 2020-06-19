@@ -2,9 +2,9 @@
 Script will perfect tick alch for easy gains.
 
 ## Download
-[EXE]()
+[EXE](https://github.com/SamlerOSRS/EdenAHK/blob/master/Magic/Eden%20Alcher%20v1.exe)
 
-[SOURCE]()
+[SOURCE](https://github.com/SamlerOSRS/EdenAHK/blob/master/Magic/alching.ahk)
 
 ## Note
 * Script should run perfectly fine
