@@ -2,7 +2,7 @@
 Script will complete the Varrock Agility course for easy gains.
 
 ## Download
-[EXE](https://github.com/SamlerOSRS/EdenAHK/blob/master/Agility/Eden%20Varrock%20Agility%20v1.exe)
+[EXE](https://github.com/SamlerOSRS/EdenAHK/blob/master/Agility/Eden%20Varrock%20Agility%20v1r2.exe)
 
 [SOURCE](https://github.com/SamlerOSRS/EdenAHK/blob/master/Agility/varrockagility.ahk)
 
