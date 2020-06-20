@@ -2,9 +2,9 @@
 Script will purchase Soda Ash and Buckets of Sand at Port Khazard for easy crafting gains.
 
 ## Download
-[EXE](https://github.com/SamlerOSRS/EdenAHK/blob/master/Agility/Eden%20Varrock%20Agility%20v1r2.exe)
+[EXE](https://github.com/SamlerOSRS/EdenAHK/blob/master/Crafting/Eden%20Ashweed%20Buyer%20v1.exe)
 
-[SOURCE](https://github.com/SamlerOSRS/EdenAHK/blob/master/Agility/varrockagility.ahk)
+[SOURCE](https://github.com/SamlerOSRS/EdenAHK/blob/master/Crafting/ashbuyer.ahk)
 
 ## Note
 * Script should run fine by itself, just watch for pkers.
