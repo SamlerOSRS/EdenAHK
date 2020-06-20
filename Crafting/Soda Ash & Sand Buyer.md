@@ -1,6 +1,9 @@
 # Eden Soda Ash & Sand Buyer
 Script will purchase Soda Ash and Buckets of Sand at Port Khazard for easy crafting gains.
 
+## Media
+https://streamable.com/2rc6sl
+
 ## Download
 [EXE](https://github.com/SamlerOSRS/EdenAHK/blob/master/Crafting/Eden%20Ashweed%20Buyer%20v1.exe)
 
